@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear Algebra | Hana Sebia</title>
+    <link>https://hana-sebia.github.io/tag/linear-algebra/</link>
+      <atom:link href="https://hana-sebia.github.io/tag/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear Algebra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://hana-sebia.github.io/media/icon_hue835e94f6b6924bb4c6799af67fb65f0_48045_512x512_fill_lanczos_center_3.png</url>
+      <title>Linear Algebra</title>
+      <link>https://hana-sebia.github.io/tag/linear-algebra/</link>
+    </image>
+    
+    <item>
+      <title>MatriXMIX</title>
+      <link>https://hana-sebia.github.io/project/matrixmix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hana-sebia.github.io/project/matrixmix/</guid>
+      <description>&lt;p&gt;This project is developped to provide a tool to compute and manipulate matrices in and sets. It allows to perform basic matrix operations as well as some decomposition and diagonalization operations. This tool is currently geared towards teaching and allows students to easily correct their algebra exercices, which are often difficult to correct by themselves. To print, it uses the beautiful typesetting. For developers : the library that we coded for matrix computations can be reused as a static or shared library in their own programs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

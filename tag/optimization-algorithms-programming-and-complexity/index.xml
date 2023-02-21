@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization, Algorithms, Programming and Complexity | Hana Sebia</title>
+    <link>https://hana-sebia.github.io/tag/optimization-algorithms-programming-and-complexity/</link>
+      <atom:link href="https://hana-sebia.github.io/tag/optimization-algorithms-programming-and-complexity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization, Algorithms, Programming and Complexity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://hana-sebia.github.io/media/icon_hue835e94f6b6924bb4c6799af67fb65f0_48045_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimization, Algorithms, Programming and Complexity</title>
+      <link>https://hana-sebia.github.io/tag/optimization-algorithms-programming-and-complexity/</link>
+    </image>
+    
+    <item>
+      <title>The Fatser Scrabble Move generation Algorithm</title>
+      <link>https://hana-sebia.github.io/project/scrabble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hana-sebia.github.io/project/scrabble/</guid>
+      <description>&lt;p&gt;This project is developped to provide a simulation of a scrabble party based on the faster algorithm for generating every possible move given a set of tiles and a position. The algorithm is proposed by Steven a.gordon and uses the GADDAG data structure (Directed Acyclic Graph, prefixed by its own reverse). To have more details, refer to the pdf in attachement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

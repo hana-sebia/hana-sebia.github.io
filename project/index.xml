@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hana Sebia</title>
+    <link>https://hana-sebia.github.io/project/</link>
+      <atom:link href="https://hana-sebia.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://hana-sebia.github.io/media/icon_hue835e94f6b6924bb4c6799af67fb65f0_48045_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://hana-sebia.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>MatriXMIX</title>
+      <link>https://hana-sebia.github.io/project/matrixmix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hana-sebia.github.io/project/matrixmix/</guid>
+      <description>&lt;p&gt;This project is developped to provide a tool to compute and manipulate matrices in and sets. It allows to perform basic matrix operations as well as some decomposition and diagonalization operations. This tool is currently geared towards teaching and allows students to easily correct their algebra exercices, which are often difficult to correct by themselves. To print, it uses the beautiful typesetting. For developers : the library that we coded for matrix computations can be reused as a static or shared library in their own programs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Fatser Scrabble Move generation Algorithm</title>
+      <link>https://hana-sebia.github.io/project/scrabble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hana-sebia.github.io/project/scrabble/</guid>
+      <description>&lt;p&gt;This project is developped to provide a simulation of a scrabble party based on the faster algorithm for generating every possible move given a set of tiles and a position. The algorithm is proposed by Steven a.gordon and uses the GADDAG data structure (Directed Acyclic Graph, prefixed by its own reverse). To have more details, refer to the pdf in attachement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Top Down Query Evaluation Engine for DataLog</title>
+      <link>https://hana-sebia.github.io/project/datalog-topdown-query-evaluation-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hana-sebia.github.io/project/datalog-topdown-query-evaluation-engine/</guid>
+      <description>&lt;p&gt;Recursive query processing methods can be broadly categorized as either bottom-up methods, or top-down methods. Bottom-up methods
+answer a query by applying all rules of a program to ground tuples, deriving tuples that satisfy rule bodies into predicates in rule heads.
+The minimal model for the given program and ground tuples is explicitly materialized as a new database instance; the answer to the query is
+then obtained through a simple select/project/join operations over the materialized database instance. In contrast, top-down methods answer
+a query by pushing selection criteria (i.e. constants) from the query down into rules that may answer the query (i.e. rules deriving into
+predicates being queried), creating more (sub)queries from the atoms of these rules’ bodies; the subqueries are in turn answered in a sim-
+ilar, top-down fashion. In this project, we implement a representative method for the top-down evaluation : query/subquery (QSQ).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensor Decomposition | Hana Sebia</title>
+    <link>https://hana-sebia.github.io/tag/tensor-decomposition/</link>
+      <atom:link href="https://hana-sebia.github.io/tag/tensor-decomposition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tensor Decomposition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hana-sebia.github.io/media/icon_hue835e94f6b6924bb4c6799af67fb65f0_48045_512x512_fill_lanczos_center_3.png</url>
+      <title>Tensor Decomposition</title>
+      <link>https://hana-sebia.github.io/tag/tensor-decomposition/</link>
+    </image>
+    
+    <item>
+      <title>Une extension de la décomposition tensorielle au phénotypage temporel</title>
+      <link>https://hana-sebia.github.io/talk/une-extension-de-la-decomposition-tensorielle-au-phenotypage-temporel/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hana-sebia.github.io/talk/une-extension-de-la-decomposition-tensorielle-au-phenotypage-temporel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
