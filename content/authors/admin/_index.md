@@ -28,81 +28,75 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hana.sebia@inria.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hana-sebia
+  - icon: gitlab
+    icon_pack: fab
+    link: https://gitlab.inria.fr/hsebia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hana-sebia-8b0903154/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=cU1WQaYAAAAJ&hl=fr&oi=sra
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0002-3783-4167
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Tensor Decomposition
+  - Image Segmentation
+  - Image Quality Transfer
+  - Healthcare Data Analytics
+  - Computational Phenotyping
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Machine Learning
+    institution: Inria, Lyon, France
+    date_start: 2022-11-01
+    #date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Developpement and application of machine and deep learning models to clinical data and preclinical images. Unsuppervised learning, spatiotemporal pattern extraction, image segmenation and image modality transfer.  
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: Master's degree in Computer Science, Data Science option
+    institution: Claude Bernard Lyon 1 University
+    date_start: 2020-09
+    date_end: 2022-09
     summary: |
-      GPA: 3.8/4.0
+    
+  - area: Bachelor's degree in Computer Science, Math option
+    institution: Claude Bernard Lyon 1 University
+    date_start: 2017-09
+    date_end: 2020-09
+    summary: |
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Visiting Researcher 
+    company_name: University College London, Centre of Medical Image Computing
+    location : London, UK
+    company_url: 'https://www.ucl.ac.uk/medical-image-computing/'
+    company_logo: ucl
+    date_start: 2025-04
+    date_end: 2025-06
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Manually annotated brain vascular tree, from HiP-CT brain images, using 3D slicer
+      - Synthesize Utrasound Localisation Microscopy images from functional ultrasound using deep generative models
+  
+  - position: Healthcare Data Analyst
+    company_name: LIRIS
     company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_logo: liris
+    location: Lyon, France
+    date_start: 2020-06-01
+    date_end: 2021-09-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - KANOPEE: An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
+
+      - QUALITOP: European project aiming to develop a smart digital platform using big data analysis to monitor health status and quality of life of cancer patients given immunotherapy. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,12 +133,12 @@ skills:
         icon: camera
 
 languages:
+  - name: French
+    #percent: 100
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    #percent: 75
+  #- name: Portuguese
+  #  percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -180,4 +174,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ph.D. candidate at the French national research institute Inria. My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I work on temporal phenotyping for high-dimensional electronic health records (EHR) using tensor factorization methods, as well as for medical image analysis. In addition, I develop deep learning models for vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging. My goal is to design interpretable and efficient models that support data-driven discovery and decision-making in both clinical and preclinical settings.
