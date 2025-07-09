@@ -63,14 +63,14 @@ education:
     #  url: 'https://example.com'
   - area: Master's degree in Computer Science, Data Science option
     institution: Claude Bernard Lyon 1 University
-    date_start: 2020-09
-    date_end: 2022-09
+    date_start: 2020-09-01
+    date_end: 2022-09-01
     summary: |
     
   - area: Bachelor's degree in Computer Science, Math option
     institution: Claude Bernard Lyon 1 University
-    date_start: 2017-09
-    date_end: 2020-09
+    date_start: 2017-09-01
+    date_end: 2020-09-01
     summary: |
 
 work:
@@ -79,8 +79,8 @@ work:
     location : London, UK
     company_url: 'https://www.ucl.ac.uk/medical-image-computing/'
     company_logo: ucl
-    date_start: 2025-04
-    date_end: 2025-06
+    date_start: 2025-04-12
+    date_end: 2025-06-12
     summary: |2-
       Responsibilities include:
       - Manually annotated brain vascular tree, from HiP-CT brain images, using 3D slicer
