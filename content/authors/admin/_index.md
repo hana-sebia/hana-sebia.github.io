@@ -16,10 +16,6 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-avatar:
-  filename: avatar_1.jpeg
-  size: original  # très important pour éviter le flou
-  shape: circle   # ou 'square' si tu préfères
 
 # Role/position/tagline
 role: PhD candidate in Machine Learning
