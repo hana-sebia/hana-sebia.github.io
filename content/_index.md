@@ -32,14 +32,18 @@ sections:
         #  parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Current Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I develop
+       temporal phenotyping methods for high-dimensional electronic health records (EHR) using tensor factorization approaches, with the goal of capturing meaningful progression patterns over time. These techniques are also applicable to the extraction of spatiotemporal patterns in functional neuroimaging.
+       
+       In parallel, I design deep learning models for brain vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging and Ultrasound Localization Microscopy (ULM).
+       
+       My overall goal is to develop interpretable and efficient models that support data-driven discovery and decision-making in both clinical and preclinical settings.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

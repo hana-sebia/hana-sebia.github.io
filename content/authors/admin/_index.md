@@ -134,9 +134,9 @@ skills:
 
 languages:
   - name: French
-    #percent: 100
+    percent: 100
   - name: English
-    #percent: 75
+    percent: 100
   #- name: Portuguese
   #  percent: 25
 
@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-Ph.D. candidate at the French national research institute Inria. My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I work on temporal phenotyping for high-dimensional electronic health records (EHR) using tensor factorization methods, as well as for medical image analysis. In addition, I develop deep learning models for vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging. My goal is to design interpretable and efficient models that support data-driven discovery and decision-making in both clinical and preclinical settings.
+Ph.D. candidate at Inria, the French national research institute for digital science and technology. My research focuses on machine learning methods for tabular data and medical imaging. I work on developing interpretable and efficient models to extract meaningful representations from high-dimensional data. My interests include temporal modeling and tensor factorization for structured data, as well as deep learning approaches for image segmentation, generation, and modality transfer.
