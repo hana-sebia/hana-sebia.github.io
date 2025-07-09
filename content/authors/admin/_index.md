@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 avatar:
-  filename: avatar.jpg
+  filename: avatar_1.jpeg
   size: original  # très important pour éviter le flou
   shape: circle   # ou 'square' si tu préfères
 
