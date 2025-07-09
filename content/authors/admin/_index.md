@@ -43,10 +43,9 @@ profiles:
     url: https://orcid.org/0009-0002-3783-4167
 
 interests:
-  - Machine Learning
   - Deep Learning
-  - Tensor Decomposition
   - Image Segmentation
+  - Tensor Decomposition
   - Image Quality Transfer
   - Healthcare Data Analytics
   - Computational Phenotyping
@@ -57,7 +56,7 @@ education:
     date_start: 2022-11-01
     #date_end: 2020-12-31
     summary: |
-      Developpement and application of machine and deep learning models to clinical data and preclinical images. Unsuppervised learning, spatiotemporal pattern extraction, image segmenation and image modality transfer.  
+
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
