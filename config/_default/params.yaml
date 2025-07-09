@@ -37,6 +37,7 @@ header:
     logo:
       text: "Your Name"
 
+
 # Site footer
 footer:
   copyright:
@@ -58,3 +59,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  custom_head:
+    enable: true
