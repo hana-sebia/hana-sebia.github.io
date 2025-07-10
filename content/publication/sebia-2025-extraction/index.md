@@ -1,7 +1,7 @@
 ---
 title: Spatiotemporal pattern extraction from functional neuroimaging
 authors:
-- Hana Sebia
+- admin
 - Thomas Guyet
 - Hugues Berry
 - Benjamin Vidal

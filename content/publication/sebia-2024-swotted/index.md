@@ -1,7 +1,7 @@
 ---
 title: 'SWoTTeD: an extension of tensor decomposition to temporal phenotyping'
 authors:
-- Hana Sebia
+- admin
 - Thomas Guyet
 - Etienne Audureau
 date: '2024-01-01'

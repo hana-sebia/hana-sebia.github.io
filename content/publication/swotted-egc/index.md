@@ -1,7 +1,7 @@
 ---
 title: "Impact de la Pollution de l'Air sur la Mortalité : État des Lieux et Approches"
 authors:
-- Hana Sebia
+- admin
 - Tarik Boumaza
 - Marie Le Guilly
 - Mohand-Said Hacid

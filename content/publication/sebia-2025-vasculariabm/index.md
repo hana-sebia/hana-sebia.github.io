@@ -1,7 +1,7 @@
 ---
 title: Vascular Segmentation of fUS Images using Deep Learning
 authors:
-- Hana Sebia
+- admin
 - Thomas Guyet
 - Hugues Berry
 - Benjamin Vidal

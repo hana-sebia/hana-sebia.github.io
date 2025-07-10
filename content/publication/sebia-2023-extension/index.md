@@ -1,7 +1,7 @@
 ---
 title: Une extension de la décomposition tensorielle au phénotypage temporel
 authors:
-- Hana Sebia
+- admin
 - Thomas Guyet
 - Etienne Audureau
 date: '2023-01-01'

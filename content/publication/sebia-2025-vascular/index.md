@@ -1,7 +1,7 @@
 ---
 title: Vascular segmentation of functional ultrasound images using deep learning
 authors:
-- Hana Sebia
+- admin
 - Thomas Guyet
 - Mickaël Pereira
 - Marco Valdebenito
