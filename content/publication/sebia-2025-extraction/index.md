@@ -1,5 +1,5 @@
 ---
-title: Extraction de motifs spatio‑temporels en neuro‑imagerie fonctionnelle
+title: Spatiotemporal pattern extraction from functional neuroimaging
 authors:
 - Hana Sebia
 - Thomas Guyet
@@ -8,5 +8,9 @@ authors:
 date: '2025-07-01'
 publishDate: '2025-07-10T15:49:19.109533Z'
 publication_types:
-- manuscript
+- paper-conference
+publication: '*Conférence en Apprentissage automatique (CAp), Dijon, France*'
+links:
+- name: URL
+  url: https://pfia2025.u-bourgogne.fr/programme/
 ---

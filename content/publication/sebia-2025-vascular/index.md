@@ -12,4 +12,7 @@ publishDate: '2025-07-10T15:49:19.118465Z'
 publication_types:
 - article-journal
 publication: '*Computers in Biology and Medicine*'
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0010482525007280
 ---
