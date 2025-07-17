@@ -41,7 +41,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
       title: Latest Publications
       filters:
@@ -51,17 +50,17 @@ sections:
     design:
       view: article-grid
       columns: 2
-  #- block: collection
-  #  id: papers
-  #  content:
-  #    title: Publications
-  #    text: ""
-  #    filters:
-  #      folders:
-  #        - publication
-  #      exclude_featured: false
-  #  design:
-  #    view: citation
+  - block: collection
+    id: papers
+    content:
+      title: All Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   - block: collection
     id: talks
     content:
