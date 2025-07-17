@@ -38,33 +38,43 @@ sections:
        My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I develop
        temporal phenotyping methods for high-dimensional electronic health records (EHR) using tensor factorization approaches, with the goal of capturing meaningful progression patterns over time. In parallel, I design deep learning models for brain vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging and Ultrasound Localization Microscopy (ULM).
        
-
+  
 
         
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: exp
     content:
-      title: Featured Publications
+      title: Experience
       filters:
         folders:
-          - publication
-        featured_only: false
+          - experience
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     id: papers
     content:
-      title: Publications
-      text: ""
+      title: Latest Publications
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
     design:
-      view: citation
+      view: article-grid
+      columns: 2
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Publications
+  #    text: ""
+  #    filters:
+  #      folders:
+  #        - publication
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
   - block: collection
     id: talks
     content:
