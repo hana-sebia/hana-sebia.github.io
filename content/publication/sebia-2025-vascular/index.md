@@ -16,6 +16,8 @@ links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/abs/pii/S0010482525007280
 
+featured: true
+
 image:
   caption: 'ULM image from rat brain'
   focal_point: ""
