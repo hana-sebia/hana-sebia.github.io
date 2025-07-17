@@ -81,7 +81,7 @@ work:
     company_logo: ucl
     date_start: 2025-04-12
     date_end: 2025-06-12
-    summary: |2-
+    summary: |
       London, UK
       Responsibilities include:
       - Vascular segmentation of HiP-CT brain images
