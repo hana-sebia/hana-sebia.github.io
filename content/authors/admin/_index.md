@@ -86,6 +86,23 @@ work:
       - Vascular segmentation of HiP-CT brain images
       - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
+ - position: PhD Candidate
+    company_name: AIstroSight, Inria 
+    location : Lyon, France
+    company_url: 
+    company_logo: 
+    date_start: 2022-03-10
+    date_end: 2025-12-31
+    summary: |
+     Lyon, France
+
+      - [fUS-ULM] : Functional Ultrasound Imaging captures rapid hemodynamic changes but offers limited spatial resolution. Ultra Localized Microscopy provides high-resolution images but suffers from long acquisition times. Combining fUS and ULM could produce detailed images with both high resolution and fast frame rates.
+
+      - [AI-RACLES] : A chair funded by Inria-APHP-CS aiming to develop new artificial intelligence techniques to better
+        exploit the greater Paris university Hospital (APHP) data lake. The context of this internship is to investigate how
+        to support the evaluation of health care pathways.
+      
+
   - position: Healthcare Data Analyst
     company_name: LIRIS
     company_url: ''
