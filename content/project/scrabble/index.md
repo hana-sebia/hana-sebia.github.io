@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 url_code: 'https://github.com/hana-sebia/faster-scrabble-gordon'
-url_pdf: 'uploads/faster-scrabble-gordon.pdf'
+url_pdf: 'static/uploads/faster-scrabble-gordon.pdf'
 url_slides: ''
 url_video: ''
 
