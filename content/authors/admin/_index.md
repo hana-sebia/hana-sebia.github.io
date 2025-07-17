@@ -86,7 +86,7 @@ work:
       - Vascular segmentation of HiP-CT brain images
       - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
- - position: PhD Candidate
+  - position: PhD Candidate
     company_name: AIstroSight, Inria 
     location : Lyon, France
     company_url: 
