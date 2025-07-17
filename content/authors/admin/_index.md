@@ -85,7 +85,7 @@ work:
       London, UK
       Responsibilities include:
       - Vascular segmentation of HiP-CT brain images
-      - Synthesize Utrasound Localisation Microscopy images from functional ultrasound using deep generative models
+      - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
   - position: Healthcare Data Analyst
     company_name: LIRIS
