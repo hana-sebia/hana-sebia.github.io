@@ -3,7 +3,7 @@ title: The Fatser Scrabble Move generation Algorithm
 summary:  A simulation of a scrabble party based on the faster algorithm for generating every possible move given a set of tiles and a position 
 tags:
   - Optimization, Algorithms, Programming and Complexity
-date: '2020'
+date: 2020
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

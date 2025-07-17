@@ -3,7 +3,7 @@ title: MatriXMIX
 summary:  An application to perform basic and advanced matrix calculations as well as operations related to matrix decomposition (under Linux and OSX).
 tags:
   - Linear Algebra
-date: '2019'
+date: 2019
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

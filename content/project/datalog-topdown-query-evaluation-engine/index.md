@@ -3,7 +3,7 @@ title: The Top Down Query Evaluation Engine for DataLog
 summary:  A Top down recursive query processing method for DataLog, implemented in Java.
 tags:
   - Deductive reasoning
-date: '2021'
+date: 2021
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
