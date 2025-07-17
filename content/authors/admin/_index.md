@@ -82,8 +82,9 @@ work:
     date_start: 2025-04-12
     date_end: 2025-06-12
     summary: |2-
+      London, UK
       Responsibilities include:
-      - Manually annotated brain vascular tree, from HiP-CT brain images, using 3D slicer
+      - Vascular segmentation of HiP-CT brain images
       - Synthesize Utrasound Localisation Microscopy images from functional ultrasound using deep generative models
   
   - position: Healthcare Data Analyst
@@ -94,6 +95,7 @@ work:
     date_start: 2020-06-01
     date_end: 2021-09-30
     summary: |
+      Lyon, France
       - KANOPEE: An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
 
       - QUALITOP: European project aiming to develop a smart digital platform using big data analysis to monitor health status and quality of life of cancer patients given immunotherapy. 
