@@ -83,7 +83,6 @@ work:
     date_end: 2025-06-12
     summary: |
       London, UK
-      Responsibilities include:
       - Vascular segmentation of HiP-CT brain images
       - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
