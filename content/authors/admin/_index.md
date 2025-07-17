@@ -83,6 +83,9 @@ work:
     date_end: 2025-06-12
     summary: |
       London, UK
+
+      Collaborators : [Daniel Alexander](https://profiles.ucl.ac.uk/3589-daniel-alexander), [Joseph Jacob](https://profiles.ucl.ac.uk/59686-joseph-jacob) 
+
       - Vascular segmentation of HiP-CT brain images
       - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
@@ -94,7 +97,12 @@ work:
     date_start: 2022-03-10
     date_end: 2025-12-31
     summary: |
-     Lyon, France
+     Lyon, France 
+
+     Supervisors : [Thomas Guyet](https://guyet.info/), [Hugues Berry](https://hberry.gitlabpages.inria.fr/mywebpage//)
+     
+     Collaborator : [Benjamin Vidal](https://www.linkedin.com/in/benjamin-vidal-ab2278a5/)
+
 
       - [fUS-ULM] : Functional Ultrasound Imaging captures rapid hemodynamic changes but offers limited spatial resolution. Ultra Localized Microscopy provides high-resolution images but suffers from long acquisition times. Combining fUS and ULM could produce detailed images with both high resolution and fast frame rates.
 
@@ -112,6 +120,9 @@ work:
     date_end: 2021-09-30
     summary: |
       Lyon, France
+
+      Supervisor : [Hacid Mohand Saïd](https://perso.univ-lyon1.fr/mohand-said.hacid/)  
+  
       - [KANOPEE]: An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
 
       - [QUALITOP]: European project aiming to develop a smart digital platform using big data analysis to monitor health status and quality of life of cancer patients given immunotherapy. 
