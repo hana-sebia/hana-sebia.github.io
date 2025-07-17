@@ -30,16 +30,24 @@ sections:
         #  size: cover
         #  position: center
         #  parallax: false
-  - block: markdown
+  
+  #- block: markdown
+  #  content:
+  #    title: '📚 My Current Research'
+  #    subtitle: ''
+  #    text: |-
+  #     My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I develop
+  #     temporal phenotyping methods for high-dimensional electronic health records (EHR) using tensor factorization approaches, with the goal of capturing meaningful progression patterns over time. In parallel, I design deep learning models for brain vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging and Ultrasound Localization Microscopy (ULM).      
+  #  design:
+  #    columns: '1'
+  - block: resume-experience
     content:
-      title: '📚 My Current Research'
-      subtitle: ''
-      text: |-
-       My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I develop
-       temporal phenotyping methods for high-dimensional electronic health records (EHR) using tensor factorization approaches, with the goal of capturing meaningful progression patterns over time. In parallel, I design deep learning models for brain vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging and Ultrasound Localization Microscopy (ULM).
-        
+      username: admin
     design:
-      columns: '1'
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: collection
     content:
       title: Latest Publications
