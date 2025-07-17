@@ -90,7 +90,7 @@ work:
       - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
   - position: PhD Candidate
-    company_name: [AIstroSight](https://team.inria.fr/aistrosight/), Inria 
+    company_name: Inria, [AIstroSight](https://team.inria.fr/aistrosight/)
     location : Lyon, France
     company_url: 
     company_logo: 
