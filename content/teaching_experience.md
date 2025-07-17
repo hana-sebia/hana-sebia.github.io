@@ -2,7 +2,7 @@
 title: Teaching Experience
 summary: List of university courses taught at Lyon 1
 date: 2025-07-17
-type: docs
+type: landing
 ---
 
 ## Teaching Experience
