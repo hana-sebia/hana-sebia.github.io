@@ -10,7 +10,7 @@ type: list
 
 #### Deep Learning
   *Master’s degree (2nd year), Data Science – Lectures and practical sessions*  
-  _Nov 2023 – Jan 2024, Nov 2024 – Jan 2025_
+  _Nov 2024 – Jan 2025, Nov 2023 – Jan 2024_
 
 #### Learning and Data Analysis
   *Master’s degree (1st year), Data Science – Practical sessions*  
@@ -22,7 +22,7 @@ type: list
 
 #### Databases and Web Development
   *Bachelor’s degree, Computer Science – Practical sessions*  
-  _Feb 2023 – Apr 2023, Feb 2024 – Apr 2024_
+  _Feb 2024 – Apr 2024, Feb 2023 – Apr 2023_
 
 #### Basics of Architecture 
   *Bachelor’s degree, Computer Science – Practical sessions*  
