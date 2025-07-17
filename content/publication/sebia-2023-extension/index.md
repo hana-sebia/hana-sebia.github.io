@@ -4,8 +4,8 @@ authors:
 - admin
 - Thomas Guyet
 - Etienne Audureau
-date: '2023-01-01'
-publishDate: '2025-07-10T15:49:19.131142Z'
+date: '2022-12-15'
+publishDate: '2022-12-15T15:49:19.131142Z'
 publication_types:
 - paper-conference
 publication: '*EGC 2023-23ème Conférence Francophone sur Extraction et Gestion des

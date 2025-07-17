@@ -4,8 +4,8 @@ authors:
 - admin
 - Thomas Guyet
 - Etienne Audureau
-date: '2024-01-01'
-publishDate: '2025-07-10T15:49:19.125050Z'
+date: '2024-04-30'
+publishDate: '2024-04-30T15:49:19.125050Z'
 publication_types:
 - article-journal
 publication: '*Machine Learning*'

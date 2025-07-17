@@ -5,8 +5,8 @@ authors:
 - Thomas Guyet
 - Hugues Berry
 - Benjamin Vidal
-date: '2025-01-01'
-publishDate: '2025-07-10T16:16:52.540076Z'
+date: '2025-03-20'
+publishDate: '2025-03-20T16:16:52.540076Z'
 publication_types:
 - paper-conference
 publication: '*Intelligence Artificielle en Imagerie Biomédicale (IABM), Nice, France*'
