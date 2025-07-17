@@ -75,7 +75,7 @@ education:
 
 work:
   - position: Visiting Researcher 
-    company_name: University College London, Centre of Medical Image Computing
+    company_name: University College London, [Centre of Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/)
     location : London, UK
     company_url: 'https://www.ucl.ac.uk/medical-image-computing/'
     company_logo: ucl
@@ -90,7 +90,7 @@ work:
       - Synthesize Utrasound Localisation Microscopy (ULM) images from Functional Ultrasound (fUS) using deep generative models
   
   - position: PhD Candidate
-    company_name: AIstroSight, Inria 
+    company_name: [AIstroSight](https://team.inria.fr/aistrosight/), Inria 
     location : Lyon, France
     company_url: 
     company_logo: 
