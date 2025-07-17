@@ -44,16 +44,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: exp
-    content:
-      title: Experience
-      filters:
-        folders:
-          - experience
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: papers
     content:
       title: Latest Publications
