@@ -1,12 +1,12 @@
 ---
-title: Teaching
+title: Teaching Experience
 summary: List of university courses taught at Lyon 1
 date: 2025-07-17
 type: list
 ---
 
 
-### Calude Bernard Lyon 1 University, France
+### Claude Bernard Lyon 1 University, France
 
 #### Deep Learning
   *Master’s degree (2nd year), Data Science – Lectures and practical sessions*  
