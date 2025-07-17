@@ -11,6 +11,9 @@ publication_types:
 publication: '*EGC 2023-23ème Conférence Francophone sur Extraction et Gestion des
   Connaissances*'
 
+tags:
+- Tensor Decomposition
+
 url_pdf: https://inria.hal.science/hal-03902300v1/document
 url_code: https://gitlab.inria.fr/hsebia/swotted
 url_slides: EGC_Oral_Presentation.pdf

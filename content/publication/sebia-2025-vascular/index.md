@@ -18,6 +18,9 @@ links:
 
 featured: true
 
+tags:
+- Image Segmentation
+
 image:
   caption: 'ULM image from rat brain'
   focal_point: ""

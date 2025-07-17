@@ -15,6 +15,9 @@ links:
 
 featured: true
 
+tags:
+- Tensor Decompostion
+
 image:
   caption: 'SwoTTeD'
   focal_point: ""
