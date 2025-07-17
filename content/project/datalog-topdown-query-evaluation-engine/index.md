@@ -14,8 +14,8 @@ image:
   focal_point: Smart
 
 url_code: 'https://github.com/hana-sebia/datalog-topdown-query-evaluation-engine'
-url_pdf: 'uploads/datalog_recursive_query_processing.pdf'
-url_slides: 'uploads/datalog_slides.pdf'
+url_pdf: 'datalog_recursive_query_processing.pdf'
+url_slides: 'datalog_slides.pdf'
 url_video: ''
 
 ---
