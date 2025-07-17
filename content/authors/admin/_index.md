@@ -22,7 +22,7 @@ role: PhD candidate in Machine Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: AIstroSight
+  - name: AIstroSight, Inria
     url: https://team.inria.fr/aistrosight/
 
 # Social network links
@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Ph.D. in Machine Learning
-    institution: Inria, Lyon, France
+    institution: Inria, France
     date_start: 2022-11-01
     #date_end: 2020-12-31
     summary: |
