@@ -101,7 +101,7 @@ work:
 
      Supervisors : [Thomas Guyet](https://guyet.info/), [Hugues Berry](https://hberry.gitlabpages.inria.fr/mywebpage//)
      
-     Collaborator : [Benjamin Vidal](https://www.linkedin.com/in/benjamin-vidal-ab2278a5/)
+     Collaborators : [Benjamin Vidal](https://www.linkedin.com/in/benjamin-vidal-ab2278a5/), [Etienne Audureau](https://eurlive.u-pec.fr/fr/equipe-pedagogique/etienne-audureau)
 
 
       - [fUS-ULM] : Functional Ultrasound Imaging captures rapid hemodynamic changes but offers limited spatial resolution. Ultra Localized Microscopy provides high-resolution images but suffers from long acquisition times. Combining fUS and ULM could produce detailed images with both high resolution and fast frame rates.
@@ -122,6 +122,8 @@ work:
       Lyon, France
 
       Supervisor : [Hacid Mohand Saïd](https://perso.univ-lyon1.fr/mohand-said.hacid/)  
+
+      Collaborators : [Delphine Maucort-Boulch](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/maucort-boulch-delphine), François Talbot
   
       - [KANOPEE]: An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
 
