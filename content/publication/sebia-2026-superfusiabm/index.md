@@ -14,7 +14,7 @@ publication_types:
 publication: '*Intelligence Artificielle en Imagerie Biomédicale (IABM), Lyon, France*'
 
 url_pdf: https://iabm2026.sciencesconf.org/resource/page/id/21
-url_poster: fus.pdf
+url_poster: Poster-IABM2025.pdf
 
 tags:
 - Image Generation
