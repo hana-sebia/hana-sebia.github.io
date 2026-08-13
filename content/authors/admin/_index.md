@@ -18,12 +18,12 @@ highlight_name: true
 
 
 # Role/position/tagline
-role: PhD candidate in Machine Learning
+role: Researcher in Machine and Deep Learning with healthcare applications
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: AIstroSight, Inria
-    url: https://team.inria.fr/aistrosight/
+  - name: HCL, Biomérieux, CERP
+    
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -83,6 +83,8 @@ work:
     date_end:
     summary: |
       Lyon, France
+
+      Collaborators : Cédric Dananché, Maxime Bodinier, Cécile Chauvel and Marta Nunes
 
       - [AIRISE] : A collaborative project involving the Lyon University Hospital (Hospices Civils de Lyon), [BioMérieux](https://www.biomerieux.com/), and the [Center of Excellence in Respiratory Pathogens (CERP)](https://cerp-epi.com) as part of the Centre International de Recherche en Infectiologie (CIRI).
 
