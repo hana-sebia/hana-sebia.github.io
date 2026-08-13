@@ -18,11 +18,11 @@ highlight_name: true
 
 
 # Role/position/tagline
-role: Researcher in Machine and Deep Learning with healthcare applications
+role: PostDoctoral Researcher in Machine Learning 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HCL, Biomérieux, CERP
+  - name: Healthcare Applications - HCL, Biomérieux, CERP - 
     
 
 # Social network links
@@ -44,12 +44,12 @@ profiles:
     url: https://orcid.org/0009-0002-3783-4167
 
 interests:
-  - Deep Learning
-  - Image Segmentation
-  - Tensor Decomposition
-  - Image Quality Transfer
-  - Healthcare Data Analytics
+  - Machine Learning for Healthcare
   - Computational Phenotyping
+  - Clinical Predictive Modeling
+  - Tensor Decomposition
+  - Deep Learning for Medical Imaging
+  - Image Segmentation, Generation & Modality Transfer
 
 education:
   - area: Ph.D. in Machine Learning
@@ -219,4 +219,4 @@ languages:
 
 ## About Me
 
-Ph.D. candidate at Inria, the French national research institute for digital science and technology. My research focuses on machine learning methods for tabular data and medical imaging. I work on developing interpretable and efficient models to extract meaningful representations from high-dimensional data. My interests include temporal modeling and tensor factorization for structured data, as well as deep learning approaches for image segmentation, generation, and modality transfer.
+Postdoctoral researcher at Hospices Civils de Lyon (HCL), working on the AIRISE project in collaboration with bioMérieux and the Center of Excellence in Respiratory Pathogens (CERP). I develop machine learning models for the early prediction of clinical deterioration in patients with respiratory infections, leveraging longitudinal hospital data. My broader research interests include temporal modeling and tensor factorization for structured clinical data, as well as deep learning approaches for medical image segmentation, generation, and modality transfer.
