@@ -14,8 +14,6 @@ links:
 - name: URL
   url: https://doi.org/10.1007/978-3-032-31654-7_43
 
-
-url_pdf: https://link.springer.com/content/pdf/10.1007/978-3-032-31654-7_43
 url_poster: Poster-ICPR.pdf
 
 tags:
