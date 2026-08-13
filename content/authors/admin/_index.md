@@ -55,7 +55,7 @@ education:
   - area: Ph.D. in Machine Learning
     institution: Inria, France
     date_start: 2022-11-01
-    date_end: 2026-02-30
+    date_end: 2026-02-28
     summary: |
 
     #button:
