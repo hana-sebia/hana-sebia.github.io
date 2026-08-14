@@ -19,9 +19,12 @@ sections:
         text: Download CV
         url: uploads/academic_resume_2026.pdf
     design:
-      css_class: dark
+      css_class: dark bio-gradient
       background:
-        color: rose
+        gradient_start: '#0f172a'
+        gradient_end: '#7c3aed'
+        gradient_angle: 135
+        text_color_light: true
         #image:
           # Add your image background to `assets/media/`.
         #  filename: floral.svg
