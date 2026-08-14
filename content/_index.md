@@ -21,8 +21,8 @@ sections:
     design:
       css_class: dark bio-gradient
       background:
-        gradient_start: '#0f172a'
-        gradient_end: '#7c3aed'
+        gradient_start: '#3d0c1a'
+        gradient_end: '#9a1b2e'
         gradient_angle: 135
         text_color_light: true
         #image:
