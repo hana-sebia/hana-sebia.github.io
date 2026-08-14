@@ -6,6 +6,13 @@ type: list
 ---
 
 
+### EPITA, France
+
+#### Introduction to Machine Learning
+  *3rd year of Engineering school – Lectures and practical sessions*  
+  _May 2026 – June 2026_
+
+
 ### Claude Bernard Lyon 1 University, France
 
 #### Deep Learning
